@@ -19,6 +19,7 @@ To test the plugin, you'll need to install a few `npm` dependencies already spec
 npm install
 ```
 
+
 This will get you the testing library Jest and some our test helpers.
 Then to run tests it's just:
 
