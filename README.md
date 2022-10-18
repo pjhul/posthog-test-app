@@ -6,6 +6,8 @@ This is a basic exemplary PostHog plugin. It adds property `"greeting"` to every
 
 Feel free to use it as a base for your own plugins!
 
+Dev edit
+
 ## How to develop
 
 All of the plugin's code is located in the `index.js` file, which is JavaScript ran inside of PostHog.
